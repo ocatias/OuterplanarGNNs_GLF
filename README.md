@@ -1,4 +1,7 @@
-# Outerplanar GNNs
+# Maximally Expressive GNNs for Outerplanar Graphs
+
+Code repository for our paper [Maximally Expressive GNNs for Outerplanar Graphs](https://openreview.net/forum?id=gXCqzpvhuD&referrer) (GLF@NeurIPS 2023, oral).
+
 ## Setup
 Clone this repository and open the directory
 
